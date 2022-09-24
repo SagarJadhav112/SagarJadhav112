@@ -1,7 +1,7 @@
 About me 🧑
 
 
-I am a Economist - Done post graduate in Economic. <br/>
+I am a Economist, Done post graduation in Economics. <br/>
 Person with a broad knowledge of Economic changes and development, seeking a dynamic and challenging in IT industry. <br/>
 Strong Engineering professional skilled in 🐍Python, SQL Server, Excel, and Web Scraping Python tools like BeautifulSoup and Request.<br/>
 I am interested in learning Data Engineering and its tool would ♥️ to grow my knowledge in these Technologies.
