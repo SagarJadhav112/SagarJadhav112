@@ -8,12 +8,15 @@ I am interested in learning Data Engineering and its tool would ♥️ to grow m
 
 Here are some ideas to get you started:
 
-🔭 I’m currently Fresher and Looking for a Data Engineering role.
-🌱 I’m currently learning Web Scraping and related tools.
-👯 I’m looking to collaborate on Python, and SQL.
-🤔 I’m looking for help with Data Engineer role.
-💬 Ask me about Python
-📫 How to reach me: 
-Email me at [princejadhav112@gmail.com](mailto:princejadhav112@gmail.com).
-🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=SagarJadhav112)
+🔭 I’m currently Fresher and Looking for a Data Engineering role. <br/>
+🌱 I’m currently learning Web Scraping and related tools. <br/>
+👯 I’m looking to collaborate on Python, and SQL. <br/>
+🤔 I’m looking for help with Data Engineer role. <br/>
+💬 Ask me about Python <br/>
+📫 How to reach me: <br/>
+Email me at [princejadhav112@gmail.com](mailto:princejadhav112@gmail.com). <br/>
+🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=SagarJadhav112) <br/>
+<br/>
+<br/>
+<br/>
 
