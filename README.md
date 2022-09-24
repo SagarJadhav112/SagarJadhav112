@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 Email me at [princejadhav112@gmail.com](mailto:princejadhav112@gmail.com). <br/>
 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=SagarJadhav112) <br/>
 <br/>
-<br/>
 
 <b>Technical Skills</b> <br/>
 ------------------------------------------------- <br/>
@@ -40,4 +39,4 @@ Give me a chance and believe in me, and I will prove you were right. <br/><br/>
 ● Passionate about continuous learning and development, curious, creativity and imaginative. <br/>
 ● Quick Learner, Self - starter and motivated.  <br/>
 ● Work efficiently with minimum supervision, able to work on own and in a team <br/>
-<br/><br/><br/>
+<br/>
