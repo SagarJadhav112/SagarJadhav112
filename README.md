@@ -20,7 +20,7 @@ Email me at [princejadhav112@gmail.com](mailto:princejadhav112@gmail.com). <br/>
 
 <b>Technical Skills</b> <br/>
 ------------------------------------------------- <br/>
-Give me a chance and believe in me, and I will prove you were right. <br/><br/>
+Give me a chance and believe in me, and I will prove you were right. <br/>
 
 ● Language: Python, SQL. <br/>
 ● Database: SQL, and MySQL. <br/>
