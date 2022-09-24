@@ -18,7 +18,6 @@ Email me at [princejadhav112@gmail.com](mailto:princejadhav112@gmail.com). <br/>
 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=SagarJadhav112) <br/>
 <br/>
 <br/>
-<br/>
 
 <b>Technical Skills</b> <br/>
 ------------------------------------------------- <br/>
@@ -29,12 +28,12 @@ Give me a chance and believe in me, and I will prove you were right. <br/><br/>
 ● PyLibraries: Pandas <br/>
 ● PyPackages: Knowledge of request and BeautifulSoup. <br/>
 ● Skills: Knowledge of Web Scraping, and Data Wrangling. <br/>
-● HackerRank: Python 3⭐, SQL 3 ⭐ <br/> <br/><br/>
+● HackerRank: Python 3⭐, SQL 3 ⭐ <br/> 
 
 <b>Tools:</b> <br/>
 **************** <br/>
 ● Code Editor: Jupyter Notebook, Spyder, Anaconda <br/>
-● MS Office 365 and below, MS Excel. <br/> <br/><br/>
+● MS Office 365 and below, MS Excel. <br/> <br/>
 
 <b>Interpersonal Skills</b> <br/> 
 **************** <br/>
